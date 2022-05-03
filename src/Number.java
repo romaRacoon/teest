@@ -80,6 +80,8 @@ class Number {
 
     public void reset(){
         stringValue ="";
+        isRoman=false;
+        romanNumber=null;
     }
 
     public String getStringValue(){

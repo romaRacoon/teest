@@ -47,6 +47,7 @@ class Calculator {
 
         operatorSymbolAmount=0;
         romanNumber=null;
+        message="";
     }
 
     private void convertNumbers() {
